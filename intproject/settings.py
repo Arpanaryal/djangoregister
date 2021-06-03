@@ -89,7 +89,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'internetdb',
         'USER': 'postgres',
-        'PASSWORD':'73014',
+        'PASSWORD':'btre73014',
         'HOST':'localhost'
     }
 }
